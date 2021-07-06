@@ -1,6 +1,9 @@
 <a name="top"></a>
 
 <h1 align="center">
+
+This project is now deployed to Heroku
+
   <br>🦷 Dental Clinic Backend 🦷
 </h1>
 
@@ -116,7 +119,5 @@ Installed dependencies: Express, Mongoose, Nodemon, Cors, Bcrypt and Jsonwebtoke
 
 Thanks to all our classmates for the help and work as a great team.
 Specially last minute Pedro's help with a struggle with an array.
-
-Holiiiiii
 
 [🔝](#top)
